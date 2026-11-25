@@ -40,7 +40,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;14&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StrategyDesignPattern.Main">
+  <component name="RunManager" selected="Application.ObserverPat.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chess.Main" />
       <module name="LLD" />
@@ -48,6 +48,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverPat.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObserverPat.Main" />
+      <module name="LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObserverPat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObserverPat.Main" />
         <item itemvalue="Application.StrategyDesignPattern.Main" />
         <item itemvalue="Application.Main" />
       </list>
